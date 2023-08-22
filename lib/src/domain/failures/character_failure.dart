@@ -1,0 +1,1 @@
+class CharacterFailure implements Exception {}
